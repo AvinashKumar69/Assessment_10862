@@ -1,6 +1,6 @@
 # Context and goal
 
-I have done this mobile application as per the internal assessment process of the organization, and it's good opportunities to brush up the relevant tech stacks.
+I have done this mobile application as per the internal assessment process of the organization (NeoSOFT), and it's good opportunities to brush up the relevant tech stacks.
 
 This app is developed with React Native, coupled with some extra nice packages to handle routing, dataflow and UI elements.
 
